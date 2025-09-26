@@ -1,0 +1,41 @@
+@import url("reset.css");
+@import url("fonts.css");
+@import url('https://fonts.googleapis.com/css2?family=Libertinus%20Serif:wght@600&display=swap');
+
+
+body {
+	font-family: 'Arimo', sans-serif;
+	font-size: 17px;
+	line-height: 1;
+	font-weight: 400;
+}
+
+.title {
+	font-family: 'Libertinus Serif', serif;
+	font-size: 28px;
+	font-weight: 600;
+	letter-spacing: 5px;
+	text-align: center;
+	text-shadow: 3px 4px rgba(0, 255, 247, 0.555);
+}
+
+.subtitle {
+	font-weight: 700;
+	font-size: 18px;
+	text-decoration: underline;
+	text-decoration-color: red;
+}
+
+.heading {
+	font-family: 'PlaypenSans-Bold', serif;
+	font-size: 24px;
+	text-transform: capitalize;
+	word-spacing: 5px;
+	color: palevioletred;
+}
+
+.info-block__text {
+	font-family: 'Kurale-Regular', serif;
+	font-size: 14px;
+	line-height: 1.2;
+}
