@@ -27,15 +27,17 @@ body {
 }
 
 .heading {
-	font-family: 'PlaypenSans-Bold', serif;
+	font-family: 'PlaypenSans', serif;
 	font-size: 24px;
+	font-weight: 700;
 	text-transform: capitalize;
 	word-spacing: 5px;
 	color: palevioletred;
 }
 
 .info-block__text {
-	font-family: 'Kurale-Regular', serif;
+	font-family: 'Kurale', serif;
 	font-size: 14px;
 	line-height: 1.2;
+	font-weight: 400;
 }

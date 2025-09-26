@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'Kurale-Regular', serif;
+	font-family: 'Kurale', serif;
 	src: url("../fonts/Kurale-Regular.woff2") format('woff2');
 	font-weight: 400;
 	font-style: normal;
@@ -7,7 +7,7 @@
 }
 
 @font-face {
-	font-family: 'PlaypenSans-Bold', serif;
+	font-family: 'PlaypenSans', serif;
 	src: url("../fonts/PlaypenSans-Bold.woff2") format('woff2');
 	font-weight: 700;
 	font-style: normal;
@@ -15,7 +15,7 @@
 }
 
 @font-face {
-	font-family: 'PlaypenSans-Light', serif;
+	font-family: 'PlaypenSans', serif;
 	src: url("../fonts/PlaypenSans-Light.woff2") format('woff2');
 	font-weight: 300;
 	font-style: normal;
@@ -23,7 +23,7 @@
 }
 
 @font-face {
-	font-family: 'PlaypenSans-Regular', serif;
+	font-family: 'PlaypenSans', serif;
 	src: url("../fonts/PlaypenSans-Regular.woff2") format('woff2');
 	font-weight: 400;
 	font-style: normal;
